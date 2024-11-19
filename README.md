@@ -8,8 +8,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rmv-se-510/NCSU_Campus_Jobs_Review_System_2.0/blob/feature/readme-badges/app/static/logo-transformed.png">
-    <img alt="vLLM" src="https://github.com/Rmv-se-510/NCSU_Campus_Jobs_Review_System_2.0/blob/feature/readme-badges/app/static/logo-transformed.png" height=30% width=50%>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rmv-se-510/git-homework/blob/main/team.png">
+    <img alt="vLLM" src="https://github.com/Rmv-se-510/git-homework/blob/main/team.png" height=30% width=50%>
   </picture>
 </p>
 
@@ -25,7 +25,6 @@
 </div>
 
 
-### Introduction to Git
 
 Git is a powerful version control system that enables developers to manage changes to their code efficiently. By tracking modifications, facilitating collaboration, and allowing for easy branching and merging, Git has become an essential tool for software development. In this exercise, we will initialize a new Git repository, create essential project files such as README.md and LICENSE.md, and develop a simple webpage detailing our team. We will learn to stage and commit changes, manage branches, resolve merge conflicts, revert commits, and use stashing to temporarily save changes. Additionally, we will clean up the repository by deleting unnecessary branches, gaining hands-on experience with Git's core functionalities.
 
