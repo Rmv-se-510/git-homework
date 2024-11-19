@@ -6,12 +6,21 @@
 
 <div align="center">
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rmv-se-510/NCSU_Campus_Jobs_Review_System_2.0/blob/feature/readme-badges/app/static/logo-transformed.png">
+    <img alt="vLLM" src="https://github.com/Rmv-se-510/NCSU_Campus_Jobs_Review_System_2.0/blob/feature/readme-badges/app/static/logo-transformed.png" height=30% width=50%>
+  </picture>
+</p>
+
+<div align="center">
+
 
 [![License](https://img.shields.io/badge/License-MIT-purple.svg?style=flat)](https://github.com/Rmv-se-510/hw4/main/LICENSE)
 [![Collaborators](https://img.shields.io/badge/Collaborators-3-orange.svg?style=flat)](https://github.com/Rmv-se-510/hw4/graphs/contributors)
 [![Open Issues](https://img.shields.io/github/issues/Rmv-se-510/hw4)](https://github.com/Rmv-se-510/hw4/issues)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/Rmv-se-510/hw4.svg)](https://img.shields.io/github/repo-size/Rmv-se-510/hw4.svg)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
